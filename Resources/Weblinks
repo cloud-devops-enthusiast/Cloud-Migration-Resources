@@ -1,0 +1,26 @@
+Pre-requisites for migration:
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/
+
+Migration Retring Applications
+https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-retiring-applications/overview.html
+
+Cloud Migration Checklist
+https://www.techtarget.com/searchcloudcomputing/opinion/What-to-include-on-your-cloud-migrations-checklist
+
+PLatespin-Migrate-2019
+https://www.microfocus.com/documentation/platespin/platespin-migrate-2019-5/migrate-user/bookinfo.html
+
+Infostrecth Chaos Engineering White-Paper
+https://www.infostretch.com/resources/white-papers/chaos-engineering/#:~:text=%E2%80%9CChaos%20Engineering%20is%20the%20discipline,withstand%20turbulent%20conditions%20in%20production.%E2%80%9D
+
+Gremlin Chaos Engineering
+https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/
+
+AWS Prescriptive Guidance
+https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-retiring-applications/apg-gloss.html#apg.migration.terms
+
+Compunnel Digital Migration Glossary
+https://www.compunneldigital.com/glossary/cloud-migration/
+
+Microsoft Business Application Migration
+https://github.com/microsoft/MCW-Line-of-business-application-migration
