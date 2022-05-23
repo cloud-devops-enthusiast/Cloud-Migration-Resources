@@ -1,0 +1,2 @@
+This is the folder that contain the azure resource manager template for the deployment of landing zone.
+We are using ARM template over here because they help us to get all the resources deployed with a help of single file only.
